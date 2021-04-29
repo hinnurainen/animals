@@ -1,0 +1,44 @@
+{
+    "animals": [
+      {
+        "id": 1,
+        "name": "Fox",
+        "aclass": "mammals",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/R%C3%A4v_vid_Revhusen_i_Ystad_-_Juli_2012..jpg/220px-R%C3%A4v_vid_Revhusen_i_Ystad_-_Juli_2012..jpg",
+        "desc": "Foxes are small to medium-sized, omnivorous mammals belonging to several genera of the family Canidae. Foxes have a flattened skull, upright triangular ears, a pointed, slightly upturned snout, and a long bushy tail (or brush).",
+        "link": "https://en.wikipedia.org/wiki/Fox"
+      },
+      {
+        "name": "Wolf",
+        "aclass": "mammals",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kolm%C3%A5rden_Wolf.jpg/440px-Kolm%C3%A5rden_Wolf.jpg",
+        "desc": "The wolf (Canis lupus[a]), also known as the gray wolf or grey wolf, is a large canine native to Eurasia and North America. More than thirty subspecies of Canis lupus have been recognized, and gray wolves, as colloquially understood, comprise non-domestic/feral subspecies. The wolf is the largest extant member of Canidae, males averaging 40 kg (88 lb) and females 37 kg (82 lb). Wolves measure 105–160 cm (41–63 in) in length and 80–85 cm (31–33 in) at shoulder height. The wolf is also distinguished from other Canis species by its less pointed ears and muzzle, as well as a shorter torso and a longer tail. The wolf is nonetheless related closely enough to smaller Canis species, such as the coyote and the golden jackal, to produce fertile hybrids with them. The banded fur of a wolf is usually mottled white, brown, gray, and black, although subspecies in the arctic region may be nearly all white.",
+        "link": "https://en.wikipedia.org/wiki/Wolf",
+        "id": 2
+      },
+      {
+        "name": "Swallow",
+        "aclass": "birds",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pied-winged_swallow_%28Hirundo_leucosoma%29.jpg/440px-Pied-winged_swallow_%28Hirundo_leucosoma%29.jpg",
+        "desc": "The swallows, martins, and saw-wings, or Hirundinidae, are a family of passerine birds found around the world on all continents, including occasionally in Antarctica. Highly adapted to aerial feeding, they have a distinctive appearance. The term \"swallow\" is used colloquially in Europe as a synonym for the barn swallow. Around 90 species of Hirundinidae are known,[1] divided into 19 genera, with the greatest diversity found in Africa, which is also thought to be where they evolved as hole-nesters.[2] They also occur on a number of oceanic islands. A number of European and North American species are long-distance migrants; by contrast, the West and South African swallows are nonmigratory.",
+        "link": "https://en.wikipedia.org/wiki/Swallow",
+        "id": 3
+      },
+      {
+        "name": "Rabbit",
+        "aclass": "mammals",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oryctolagus_cuniculus_Rcdo.jpg/440px-Oryctolagus_cuniculus_Rcdo.jpg",
+        "desc": "Rabbits are small mammals in the family Leporidae of the order Lagomorpha (along with the hare and the pika). Oryctolagus cuniculus includes the European rabbit species and its descendants, the world's 305 breeds[1] of domestic rabbit. Sylvilagus includes 13 wild rabbit species, among them the seven types of cottontail. The European rabbit, which has been introduced on every continent except Antarctica, is familiar throughout the world as a wild prey animal and as a domesticated form of livestock and pet. With its widespread effect on ecologies and cultures, the rabbit (or bunny) is, in many areas of the world, a part of daily life—as food, clothing, a companion, and a source of artistic inspiration.",
+        "link": "https://en.wikipedia.org/wiki/Rabbit",
+        "id": 4
+      },
+      {
+        "name": "Unicorn",
+        "aclass": "mammals",
+        "img": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/OMC/TLC-20200211101344330.png",
+        "desc": "The unicorn is a legendary creature that has been described since antiquity as a beast with a single large, pointed, spiraling horn projecting from its forehead.",
+        "link": "https://en.wikipedia.org/wiki/Unicorn",
+        "id": 5
+      }
+    ]
+  }

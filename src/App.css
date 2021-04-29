@@ -35,7 +35,7 @@ main button {
   list-style: none;
 }
 
-.post {
+.card {
   background: #f4f4f4;
   border-radius: 5px;
   box-shadow: 0 0 5px #787878;
@@ -43,13 +43,13 @@ main button {
   position: relative;
 }
 
-.post img {
+.card img {
   object-fit: cover;
   width: 100%;
   max-height: 150px;
 }
 
-.post h2 {
+.card h2 {
   padding: 0.1rem 1rem;
 }
 
